@@ -1,0 +1,15 @@
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\bin\Release\netcoreapp2.1\APIEducagame.deps.json
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\bin\Release\netcoreapp2.1\APIEducagame.runtimeconfig.json
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\bin\Release\netcoreapp2.1\APIEducagame.runtimeconfig.dev.json
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\bin\Release\netcoreapp2.1\APIEducagame.dll
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\bin\Release\netcoreapp2.1\APIEducagame.pdb
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\obj\Release\netcoreapp2.1\APIEducagame.csprojAssemblyReference.cache
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\obj\Release\netcoreapp2.1\APIEducagame.csproj.CoreCompileInputs.cache
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\obj\Release\netcoreapp2.1\APIEducagame.RazorAssemblyInfo.cache
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\obj\Release\netcoreapp2.1\APIEducagame.RazorAssemblyInfo.cs
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\obj\Release\netcoreapp2.1\APIEducagame.AssemblyInfoInputs.cache
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\obj\Release\netcoreapp2.1\APIEducagame.AssemblyInfo.cs
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\obj\Release\netcoreapp2.1\APIEducagame.RazorTargetAssemblyInfo.cache
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\obj\Release\netcoreapp2.1\APIEducagame.dll
+C:\Users\pissi\source\repos\APIEducagame\APIEducagame\obj\Release\netcoreapp2.1\APIEducagame.pdb
