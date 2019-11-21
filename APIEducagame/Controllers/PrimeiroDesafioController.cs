@@ -4,36 +4,39 @@ using System.Linq;
 using System.Threading.Tasks;
 using APIEducagame.Model;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace APIEducagame.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/desafio1")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class PrimeiroDesafioController : ControllerBase
     {
 
         private readonly AppContexto _context;
 
 
-        public ValuesController(AppContexto context)
+        public PrimeiroDesafioController(AppContexto context)
         {
             _context = context;
         }
 
-        // POST api/values
+        //// POST api/values
+
         [HttpPost]
-        public void Post([FromBody] Ponto value)
+        public int Post([FromBody] tbl_desafio1 ponto)
         {
             try
             {
-                _context.Ponto.Add(value);
+                _context.tbl_Desafio1.Add(ponto);
                 _context.SaveChanges();
             }
-            catch (Exception)
+            catch (Exception Ex)
             {
                 throw;
             }
 
+            return ponto.Id;
         }
     }
 }

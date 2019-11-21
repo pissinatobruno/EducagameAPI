@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="APIEducagame20191006054314" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\pissi\\source\\repos\\APIEducagame\\APIEducagame\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  <parameter name="IIS Web Application Name" description="" value="Educagame" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\pissi\\Documents\\TCC\\EducagameAPI\\APIEducagame\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
